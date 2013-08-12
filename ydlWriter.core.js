@@ -263,7 +263,7 @@
 						return res;
 					},
 
-					complileTMPL : function ( arr ) {
+					compileTMPL : function ( arr ) {
 						return arr.join("");
 					}
 
